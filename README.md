@@ -27,6 +27,8 @@ Input:
 Output: 
 
 Dimension: Global
+
 Rating: 4
+
 Reframed Post:
 "Our group failed this project, but it's an opportunity for us to learn and grow together. Let's take a closer look at what went wrong and how we can improve our collaboration and time managemen t strategies for future projects."
